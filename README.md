@@ -51,12 +51,12 @@ El proyecto utiliza el archivo:ventas_techventas.csv
 ``en conda promp
 conda create -n ProyectoMasterIA python=3.10
 
-### Activar entorno
+### 2. Activar entorno
 conda activate ProyectoMasterIA
-### Instalar dependencias
+### 3. Instalar dependencias
 conda install pandas numpy chardet
 
-### Ejecución del proyecto
+### 4. Ejecución del proyecto
 
 Colocar el archivo ventas_techventas.csv en la misma carpeta del notebook o script, luego ejecutar el notebook o script en ordeny seguir las secciones del flujo de análisis en el que se van a mostrar: 
 
